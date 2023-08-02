@@ -1,0 +1,3 @@
+#!/bin/bash
+current_directory=$(realpath .)
+echo "Absolute path name : $current_directory"
